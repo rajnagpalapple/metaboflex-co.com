@@ -3,3 +3,7 @@ from = "/index.html"
 to = "/"
 status = 301
 force = true
+[[redirects]]
+from = "/order"
+to = "https://hop.clickbank.net/?vendor=metaboflex&affiliate=527914&lid=6100&tid=organic"
+force = true
